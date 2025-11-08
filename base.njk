@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Internship Task{% endblock %}</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  {% include "partials/header.njk" %}
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  {% include "partials/footer.njk" %}
+</body>
+</html>

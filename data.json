@@ -1,0 +1,15 @@
+{
+  "site": {
+    "title": "Internship Task Document - Task 2",
+    "author": "GS Keerthana",
+    "description": "Recreated with Nunjucks + Vite"
+  },
+  "document": {
+    "title": "Internship Task 2 – Strict Tech Stack Implementation",
+    "sections": [
+      {"title":"Objective","content":"Recreate the deliverables from Task 1 using templating + bundler (Nunjucks + Vite)."},
+      {"title":"Mandatory Stack","content":"Nunjucks (templating) + Vite (bundler)."},
+      {"title":"Deliverables","content":"Final HTML, Source code, README, Screenshots, separate git & live link."}
+    ]
+  }
+}
